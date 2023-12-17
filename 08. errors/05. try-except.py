@@ -12,6 +12,8 @@ try:
     print('Este código nunca será ejecutado.')
 except MyError as error:
     print(error)  # Mi error
+finally: 
+    print("Finally")
     
 
 try:
@@ -23,3 +25,5 @@ except ReferenceError as error:
     print("ReferenceError")
 except Exception as error:
     print("Error")
+finally:
+    print("Finally")
