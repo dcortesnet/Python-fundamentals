@@ -8,6 +8,7 @@ Fundamentals of the Python programming language. Repository with examples and ba
 - Python tutorials realpython: https://realpython.com/
 - Stack overflow Python: https://stackoverflow.com/questions/tagged/python
 - Pip: https://pip.pypa.io/en/stable/getting-started/
+- Python packages Pypi: https://pypi.org/
 
 ## Team
 
